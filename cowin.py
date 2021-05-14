@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 # Define your requirments
 age = 50
 # Pass your pincode You may pass multiple pincode in for of list
-pincode = ['482001', '482002', '482003', '482004''482005', '482006', ]
+pincode = ['']
 number_days = 5       # Max of 7 days supported
 p_flag = 'Y'
 
